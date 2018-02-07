@@ -1,0 +1,37 @@
+/* This is a style sheet */ 
+
+#header {
+	text-align: center;
+	font-family: Calibri;
+	font-size: 24px;
+	font-weight: bold;
+}
+#address {
+	text-align: center; 
+	font-family: Calibri; 
+	font-size: 12px;
+}
+#personal-info {
+	text-align: center; 
+	font-family: Calibri; 
+	font-size: 12px;
+}
+h1 {
+	font-family: Calibri
+	font-size: 16px;
+	text-align: left;
+	text-decoration-line: underline; 
+}
+h2 {
+	font-family: Calibri;
+	font-weight: bold;
+	font-size: 12px;
+	text-align: left;
+}
+h3 {
+	font-family: Calibri;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 12px;
+	text-align: center;
+}
