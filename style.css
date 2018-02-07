@@ -5,7 +5,7 @@
 	font-family: Calibri;
 	font-size: 24px;
 	font-weight: bold;
-	background-color: blue;
+	background-color: cyan;
 }
 #address {
 	text-align: center; 
@@ -39,13 +39,13 @@ h3 {
 	text-indent: 50px; 
 }
 ul {
-	padding: 20px;
+	margin-left: 40px;
+	padding-left: 0;
 	list-style-type: none;
-    text-indent: 50px ;
-    padding: 0;
+    text-indent: 50px; 
 }
 .education {
 	border-style: solid;
 	border-width: thick;
-	border-color: blue ;
+	border-color: cyan ;
 }
