@@ -1,0 +1,25 @@
+/* Style sheet for my bio */
+
+h1 {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold; 
+	font-style: normal;
+	color: mintcream;
+}
+
+h2 {
+	text-align: center;
+	font-size: 16px;
+	font-weight: none; 
+	font-style: oblique;
+	color: mintcream;
+	font-style: italic; 
+}
+
+div {
+	padding: 50px; 
+	margin: 25px;
+	border-style: thick;
+	border-color: palegreen;
+}
