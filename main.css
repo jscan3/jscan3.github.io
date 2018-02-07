@@ -5,6 +5,7 @@ h1 {
 	font-size: 24px ;
 }
 div {
+	text-align: center;
 	background-color: lightgrey; 
 	width: 500px;
 	border-style: solid;
