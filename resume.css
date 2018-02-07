@@ -1,0 +1,71 @@
+/* This is a style sheet */ 
+
+#name {
+	text-align: center;
+	font-family: Calibri;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: blue; 
+}
+#address {
+	text-align: center; 
+	font-family: Calibri; 
+	font-size: 12px;
+}
+#personal-info {
+	text-align: center; 
+	font-family: Calibri; 
+	font-size: 12px;
+}
+h1 {
+	color: darkturquoise;
+	font-family: Calibri
+	font-size: 18px;
+	text-align: left;
+	text-decoration-line: underline; 
+}
+h2 {
+	font-family: Calibri;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: left;
+}
+h3 {
+	font-family: Calibri;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: left; 
+	text-indent: 50px; 
+}
+ul, li {
+	margin-left: 40px;
+	padding-left: 0;
+	list-style-type: square;
+    text-indent: 50px; 
+}
+.education {
+	border-style: solid;
+	border-width: thick;
+	border-color: lightgrey;
+}
+.experience {
+	border-style: solid;
+	border-width: thick;
+	border-color: lightgrey;
+}
+.projects{
+	border-style: solid;
+	border-width: thick;
+	border-color: lightgrey;
+}
+.extra-cirricular{
+	border-style: solid;
+	border-width: thick;
+	border-color: lightgrey ;
+}
+.skills{
+	border-style: solid;
+	border-width: thick;
+	border-color: lightgrey ;
+}
