@@ -5,7 +5,7 @@
 	font-family: Calibri;
 	font-size: 24px;
 	font-weight: bold;
-	background-color: cyan;
+	background-color: blue; 
 }
 #address {
 	text-align: center; 
@@ -18,7 +18,7 @@
 	font-size: 12px;
 }
 h1 {
-	color: lightblue;
+	color: darkturquoise;
 	font-family: Calibri
 	font-size: 18px;
 	text-align: left;
@@ -47,5 +47,5 @@ ul {
 .education {
 	border-style: solid;
 	border-width: thick;
-	border-color: cyan ;
+	border-color: lightgrey ;
 }
