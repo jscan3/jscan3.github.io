@@ -18,6 +18,7 @@
 	font-size: 12px;
 }
 h1 {
+	color: lightblue;
 	font-family: Calibri
 	font-size: 18px;
 	text-align: left;
@@ -44,6 +45,7 @@ ul {
     padding: 0;
 }
 .education {
-	border-style: dotted;
+	border-style: solid;
+	border-width: thick;
 	border-color: blue ;
 }
