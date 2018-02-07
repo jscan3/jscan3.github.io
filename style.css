@@ -41,7 +41,7 @@ h3 {
 ul, li {
 	margin-left: 40px;
 	padding-left: 0;
-	list-style-type: none;
+	list-style-type: square;
     text-indent: 50px; 
 }
 .education {
