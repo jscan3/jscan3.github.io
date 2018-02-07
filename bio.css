@@ -15,7 +15,11 @@ h2 {
 	color: mintcream;
 	font-style: italic; 
 }
-
+p {
+	text-align: center; 
+	font-size: 14px; 
+	font-style: normal;
+}
 div {
 	padding: 50px; 
 	margin: 25px;
