@@ -10,8 +10,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	font-size: 16px;
-	font-weight: none; 
+	font-size: 16px; 
 	font-style: oblique;
 	color: mintcream;
 	font-style: italic; 
@@ -20,6 +19,6 @@ h2 {
 div {
 	padding: 50px; 
 	margin: 25px;
-	border-style: thick;
+	border-style: solid;
 	border-color: palegreen;
 }
