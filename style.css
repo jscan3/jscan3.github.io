@@ -3,7 +3,7 @@
 #name {
 	text-align: center;
 	font-family: Calibri;
-	font-size: 26px;
+	font-size: 24px;
 	font-weight: bold;
 	background-color: blue;
 }
@@ -19,31 +19,31 @@
 }
 h1 {
 	font-family: Calibri
-	font-size: 16px;
+	font-size: 18px;
 	text-align: left;
 	text-decoration-line: underline; 
 }
 h2 {
 	font-family: Calibri;
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 16px;
 	text-align: left;
 }
 h3 {
 	font-family: Calibri;
 	font-style: italic;
 	font-weight: bold;
-	font-size: 12px;
+	font-size: 14px;
 	text-align: left; 
 	text-indent: 50px; 
 }
-p {
-	font-family: Calibri;
-	font-weight: bold; 
-	text-align: left;
-}
 ul {
+	padding: 20px;
 	list-style-type: none;
     text-indent: 50px ;
     padding: 0;
+}
+.education {
+	border-style: dotted;
+	border-color: blue ;
 }
